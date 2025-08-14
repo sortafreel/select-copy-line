@@ -3,6 +3,7 @@
   "displayName": "Select Copy Line",
   "description": "Copy selected code with relative path and line numbers",
   "version": "0.0.1",
+  "publisher": "local",
   "engines": {
     "vscode": "^1.74.0"
   },
